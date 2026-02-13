@@ -1,0 +1,12 @@
+
+  "name": "cat-vs-sausage",
+  "version": "1.0.0",
+  "description": "Простая 3D-игра: кот спасается от колбасы",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
